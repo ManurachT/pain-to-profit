@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/workshop-design-system/pain-to-profit/',
+  base: '/pain-to-profit/',
   plugins: [react(), tailwindcss()],
 })

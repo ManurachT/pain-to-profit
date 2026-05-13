@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist --repo https://github.com/hackathon-gray-falcon-63/workshop-design-system.git"
+    "deploy": "gh-pages -d dist --repo https://github.com/ManurachT/pain-to-profit.git"
   },
   "dependencies": {
     "lucide-react": "^1.14.0",
